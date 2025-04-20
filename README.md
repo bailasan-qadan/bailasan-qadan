@@ -95,9 +95,9 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/bailasan-qadan/count.svg" alt="Visitor Count" />
 </p>
-
+<!--
 <p align="center">
   <i>"The Universe is under no obligation to make sense to you." - Neil deGrasse Tyson</i>
   <br>
-   <i>"KISS - keep it simple stupid"</i>
+   <i>"KISS - keep it simple stupid"</i>-->
 </p>
