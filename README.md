@@ -65,15 +65,11 @@
 <br> 
 -->
 ## 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bailasan-qadan&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bailasan-qadan&layout=compact&theme=tokyonight" alt="Most Used Languages" height="170" />
+    <img src="https://github-readme-stats.vercel.app/api?username=bailasan-qadan&show_icons=true&theme=gotham" alt="GitHub stats">
+    <img src="https://streak-stats.demolab.com?user=bailasan-qadan&theme=gotham&card_width=470" alt="GitHub stats">
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bailasan-qadan&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 <br>
 
