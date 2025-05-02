@@ -1,4 +1,7 @@
-<img src="https://github.com/user-attachments/assets/c3d62d43-60a6-4d74-95c4-8eaaacb34f08" width="30px"> Hello, Universe!
+
+
+
+<img src="https://github.com/user-attachments/assets/1591fb60-cc1f-4cbf-a1ee-0b1ca6d797f2" width="50px">   Hello, Universe!
     <br>
   
 ## About Me ✨
