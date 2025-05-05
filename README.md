@@ -1,9 +1,12 @@
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ebcc7cc8-2011-4d0b-b2e0-7919e0c5c26c" width="500px">
+  <br>
+  <img src="https://github.com/user-attachments/assets/88dc493d-953c-4182-9ba0-29e162950724" width="500px">
+</div>
 
+<br>
 
-<img src="https://github.com/user-attachments/assets/1591fb60-cc1f-4cbf-a1ee-0b1ca6d797f2" width="50px">   Hello, Universe!
-    <br>
-  
 ## About Me ✨
 .I'm not a big fan of backend development.
 <br>
