@@ -26,7 +26,6 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=oracle&logoColor=white)
 ![javafx Badge](https://img.shields.io/badge/JavaFX-041E42?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ### Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -70,14 +69,7 @@
 
 <br> 
 -->
-## 📈 GitHub Stats
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=bailasan-qadan&show_icons=true&theme=gotham" alt="GitHub stats">
-    <img src="https://streak-stats.demolab.com?user=bailasan-qadan&theme=gotham&card_width=470" alt="GitHub stats">
-</p>
 
-
-<br>
 
 ## 🔭 Looking For
 
