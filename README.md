@@ -7,19 +7,6 @@
 
 <br>
 
-## About Me ✨
-.I'm not a big fan of backend development.
-<br>
-.I'm interested in AI, frontend development, web development, UI/UX design, and data science.
-<br>
-.Currently just trying to survive at BZU.
-<br>
-.I solve problems on LeetCode.
-<br>
-.If I hadn't studied computer science, you'd probably find me studying astronomy and space—I'm a space and astronomy aficionado.
-
-<br>
-
 ## 🛠️ Technologies & Tools
  
 ### Backend Development
